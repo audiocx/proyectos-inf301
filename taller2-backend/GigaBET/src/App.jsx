@@ -13,7 +13,7 @@ export default function App() {
       <UserProvider>
         <BrowserRouter>
           <Routes>
-            <Route index element={<Home />} />
+            <Route index element={<SignIn />} />
             <Route path="/home" element={<Home />} />
             <Route path="/bet" element={<BetPage />} />
             <Route path="/login" element={<Login />} />
