@@ -40,7 +40,7 @@ export default function Login() {
         if (data.data.userLogin) {
           logger(data.data.userLogin);
           if (data.data.userLogin.profileType === "admin") {
-            navigate("/");
+            navigate("/home");
           } else {
             navigate("/bet");
           }

@@ -29,7 +29,7 @@ export default function NavBarAdmin() {
           <Button
             color="success"
             variant="contained"
-            onClick={() => navigate("/")}
+            onClick={() => navigate("/home")}
           >
             Championship
           </Button>
