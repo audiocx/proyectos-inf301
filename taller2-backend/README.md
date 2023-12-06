@@ -10,6 +10,8 @@
 >> - Pueden realizar apuestas.
 >> - Pueden eliminar sus apuestas.
 >> - Pueden revisar su historial de apuestas.
+
+
 > Administradores
 >> - Pueden hacer lo mismo que los usuarios normales.
 >> - Gestionan el campeonato.
